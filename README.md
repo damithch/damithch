@@ -1,9 +1,9 @@
-👋 Hi, I’m Damith Chandrathilake
-👀 I’m interested in software engineering
-🌱 I’m currently learning Java
-💞️ I’m looking to collaborate on backend projects in Java
-📫 How to reach me: https://www.linkedin.com/in/damith-chandrathilake-845949258/
-😄 Pronouns: he/him
+👋 Hi, I’m Damith Chandrathilake  
+👀 I’m interested in software engineering  
+🌱 I’m currently learning Java  
+💞️ I’m looking to collaborate on backend projects in Java  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/damith-chandrathilake-845949258/)  
+😄 Pronouns: he/him  
 ⚡ Fun fact: I can overthink a simple decision for hours but still manage to find the perfect solution!
 
 <!---
