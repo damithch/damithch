@@ -8,7 +8,7 @@
 - 🌱 Currently learning **Java**
 - 👯 Looking to collaborate on **backend projects in Java**
 - 📫 Reach me at **damchandrathilake@gmail.com**
-- ⚡ Fun fact: **I can overthink a simple decision for hours but still manage to find the perfect solution!**
+- ⚡ Fun fact: **I can overthink a simple decision for hours but still manage to find the perfect solution! :-)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
