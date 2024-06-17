@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/damith-chandrathilake-845949258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/damith-chandrathilake-845949258/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/damith-chandrathilake-845949258/](https://www.linkedin.com/in/damith-chandrathilake-845949258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/damith-chandrathilake-845949258/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/damithchandrathilake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/damithchandrathilake" height="30" width="40" /></a>
 <a href="https://discord.gg/damithc_42138_05234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="damithc_42138_05234" height="30" width="40" /></a>
 </p>
