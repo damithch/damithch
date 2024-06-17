@@ -39,4 +39,4 @@
   </a>
 </p>
 
-[![Damith's GitHub stats](https://github-readme-stats.vercel.app/api?username=damithch)](https://github.com/damithch/github-readme-stats)
+![Damith's GitHub stats](https://github-readme-stats.vercel.app/api?username=damithch&show_icons=true&theme=transparent)
