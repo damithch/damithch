@@ -22,6 +22,10 @@
 </p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithch&layout=compact&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="Top Languages" style="width: 49%; height: 150px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=damithch&show_icons=true&theme=transparent&hide_border=true&icon_color=red&title_color=red&text_color=red" alt="GitHub Stats" style="width: 49%;" />
+  <div style="width: 49%; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithch&layout=compact&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="Top Languages" />
+  </div>
+  <div style="width: 49%; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=damithch&show_icons=true&theme=transparent&hide_border=true&icon_color=red&title_color=red&text_color=red" alt="GitHub Stats" />
+  </div>
 </div>
