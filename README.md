@@ -15,11 +15,9 @@
   <a href="https://www.linkedin.com/in/damith-chandrathilake-845949258/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Damith Chandrathilake" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/damithchandrathilake" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Damith Chandrathilake" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/damithc_42138_05234" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="damithc_42138_05234" height="30" width="40" />
   </a>
 </p>
 
@@ -39,7 +37,7 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=damithch&show_icons=true&theme=transparent&hide_border=true&icon_color=red&title_color=red&text_color=red" alt="Damith's GitHub stats" style="width: 49%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithch&layout=compact&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="Top Languages" style="width: 49%;" />
 </div>
