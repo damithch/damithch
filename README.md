@@ -5,10 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=damithch&label=Profile%20views&color=0e75b6&style=flat" alt="damithch" />
 </p>
 
-🌱 I’m currently learning **Java**  
-👯 I’m looking to collaborate on **backend projects in Java**  
-📫 How to reach me **damchandrathilake@gmail.com**  
-⚡ Fun fact **I can overthink a simple decision for hours but still manage to find the perfect solution!**
+- 🌱 I’m currently learning **Java**  
+- 👯 I’m looking to collaborate on **backend projects in Java**  
+- 📫 How to reach me **damchandrathilake@gmail.com**  
+- ⚡ Fun fact **I can overthink a simple decision for hours but still manage to find the perfect solution!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +39,7 @@
   </a>
 </p>
 
-![Damith's GitHub stats](https://github-readme-stats.vercel.app/api?username=damithch&show_icons=true&theme=transparent&hide_border=true&icon_color=red&title_color=red&text_color=red)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damithch&layout=compact&theme=transparent&hide_border=true&title_color=red&text_color=red)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=damithch&show_icons=true&theme=transparent&hide_border=true&icon_color=red&title_color=red&text_color=red" alt="Damith's GitHub stats" style="width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithch&layout=compact&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="Top Languages" style="width: 49%;" />
+</div>
