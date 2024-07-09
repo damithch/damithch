@@ -60,15 +60,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=damithch&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="GitHub Streak" />
 </p>
-
-<div align="left">
-  <div style="width: 49%; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=damithch&repo=repository-name&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="Java Repository" />
-  </div>
-  <div style="width: 49%; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=damithch&repo=repository-name&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="C++ Repository" />
-  </div>
-  <div style="width: 49%; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=damithch&repo=repository-name&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="C Repository" />
-  </div>
-</div>
