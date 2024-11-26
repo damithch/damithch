@@ -48,12 +48,6 @@
   </a>
 </p>
 
-<h3 align="left">Java Learning Progress:</h3>
-<p align="left">
-  <!-- Example of a dynamic progress tracker for Java -->
-  <img src="https://wakatime.com/share/@damithch/java-learning-progress.svg" alt="Java Learning Status" width="300" />
-</p>
-
 <div align="left">
   <div style="width: 49%; display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithch&layout=compact&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="Top Languages" />
