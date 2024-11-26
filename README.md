@@ -50,8 +50,8 @@
 
 <h3 align="left">Java Learning Progress:</h3>
 <p align="left">
-  <!-- Replace this with an actual dynamic status image or Java progress tracker -->
-  <img src="https://example.com/java-progress-status?username=damithch" alt="Java Learning Status" width="300" />
+  <!-- Example of a dynamic progress tracker for Java -->
+  <img src="https://wakatime.com/share/@damithch/java-learning-progress.svg" alt="Java Learning Status" width="300" />
 </p>
 
 <div align="left">
