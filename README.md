@@ -5,26 +5,18 @@
   <img src="https://komarev.com/ghpvc/?username=damithch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!-- Flex container to hold About Me section and GIF side by side -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<!-- Centered GIF under Profile Views -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GitHub GIF" style="width: 150px; height: auto;" />
+</p>
 
-  <!-- About Me Section -->
-  <div style="flex: 1; text-align: left;">
-    🧑‍💻 About Me:
-    <ul>
-      <li>🌱 Currently Learning: Python and Java</li>
-      <li>🚀 Aspiring Roles: Machine Learning Engineer and Backend Developer</li>
-      <li>👯 Collaboration Interests: Backend projects & AI solutions</li>
-      <li>📫 Contact: damchandrathilake@gmail.com</li>
-    </ul>
-  </div>
-
-  <!-- GIF Section -->
-  <div style="flex: 0; text-align: right;">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GitHub GIF" style="width: 150px; height: auto;" />
-  </div>
-
-</div>
+🧑‍💻 About Me:
+<ul>
+  <li>🌱 Currently Learning: Python and Java</li>
+  <li>🚀 Aspiring Roles: Machine Learning Engineer and Backend Developer</li>
+  <li>👯 Collaboration Interests: Backend projects & AI solutions</li>
+  <li>📫 Contact: damchandrathilake@gmail.com</li>
+</ul>
 
 🌐 Connect with Me:
 <p align="left">
