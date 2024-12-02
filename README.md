@@ -5,17 +5,28 @@
   <img src="https://komarev.com/ghpvc/?username=damithch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
+<!-- Flex container to hold About Me section and GIF side by side -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-### 🧑‍💻 About Me:
-- 🌱 **Currently Learning:** Python and Java
-- 🚀 **Aspiring Roles:** Machine Learning Engineer and Backend Developer
-- 👯 **Collaboration Interests:** Backend projects & AI solutions
-- 📫 **Contact:** [damchandrathilake@gmail.com](mailto:damchandrathilake@gmail.com)
+  <!-- About Me Section -->
+  <div style="flex: 1; text-align: left;">
+    🧑‍💻 About Me:
+    <ul>
+      <li>🌱 Currently Learning: Python and Java</li>
+      <li>🚀 Aspiring Roles: Machine Learning Engineer and Backend Developer</li>
+      <li>👯 Collaboration Interests: Backend projects & AI solutions</li>
+      <li>📫 Contact: damchandrathilake@gmail.com</li>
+    </ul>
+  </div>
 
----
+  <!-- GIF Section -->
+  <div style="flex: 0; text-align: right;">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GitHub GIF" style="width: 150px; height: auto;" />
+  </div>
 
-### 🌐 Connect with Me:
+</div>
+
+🌐 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/damith-chandrathilake-845949258/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -25,9 +36,7 @@
   </a>
 </p>
 
----
-
-### 🛠 Languages and Tools:
+🛠 Languages and Tools:
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
@@ -43,16 +52,16 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Statistics:
+📊 GitHub Statistics:
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damithch&theme=transparent" alt="Profile Details" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damithch&theme=transparent" alt="Overall Stats" />
 </div>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damithch&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="GitHub Streak" />
+</p>
 
-### 🚀 Let’s Build Something Amazing Together!
+🚀 Let’s Build Something Amazing Together!  
 Feel free to reach out if you're interested in collaborating on exciting backend and machine learning projects. Let's connect and create something impactful!  
-**Happy Coding!** ✨
+Happy Coding! ✨
