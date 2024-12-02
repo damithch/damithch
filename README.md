@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Damith Chandrathilake</h1>
-<h3 align="center">Passionate Software Engineering Student</h3>
+<h3 align="center">Aspiring Machine Learning and Backend Engineer</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=damithch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 Currently learning **Java**
-- 👯 Looking to collaborate on **backend projects in Java**
-- 📊 Java projects are a key focus in my GitHub repositories.
-- 📫 Reach me at **damchandrathilake@gmail.com**
-- ⚡ Fun fact: **I can overthink a simple decision for hours but still manage to find the perfect solution! :-)**
-  
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🧑‍💻 About Me:
+- 🌱 **Currently Learning:** **Python** and **Java**  
+- 🚀 **Aspiring Roles:** **Machine Learning Engineer** and **Backend Developer**  
+- 👯 **Collaboration Interests:** **Backend projects** & **AI solutions**  
+- 📫 **Contact:** [**damchandrathilake@gmail.com**](mailto:damchandrathilake@gmail.com)  
+
+---
+
+### 🌐 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/damith-chandrathilake-845949258/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -21,29 +25,35 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠 Languages and Tools:
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
 </p>
 
-<h3 align="left">GitHub Statistics:</h3>
-<div align="left">
-  <div style="width: 49%; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithch&layout=compact&theme=transparent&hide_border=true&title_color=red&text_color=red&hide=html,css&langs_count=6" alt="Top Languages" />
-  </div>
-  <div style="width: 49%; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=damithch&show_icons=true&theme=transparent&hide_border=true&icon_color=red&title_color=red&text_color=red" alt="GitHub Stats" />
-  </div>
+---
+
+### 📊 GitHub Statistics:
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damithch&theme=transparent" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=damithch&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damithch&theme=transparent" alt="Overall Stats" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damithch&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="GitHub Streak" />
-</p>
+---
+
+### 🚀 Let’s Build Something Amazing Together!
+Feel free to reach out if you're interested in collaborating on exciting backend and machine learning projects. Let's connect and create something impactful!  
+**Happy Coding!** ✨
