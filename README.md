@@ -8,10 +8,10 @@
 ---
 
 ### 🧑‍💻 About Me:
-- 🌱 **Currently Learning:** **Python** and **Java**  
-- 🚀 **Aspiring Roles:** **Machine Learning Engineer** and **Backend Developer**  
-- 👯 **Collaboration Interests:** **Backend projects** & **AI solutions**  
-- 📫 **Contact:** [**damchandrathilake@gmail.com**](mailto:damchandrathilake@gmail.com)  
+- 🌱 **Currently Learning:** Python and Java
+- 🚀 **Aspiring Roles:** Machine Learning Engineer and Backend Developer
+- 👯 **Collaboration Interests:** Backend projects & AI solutions
+- 📫 **Contact:** [damchandrathilake@gmail.com](mailto:damchandrathilake@gmail.com)
 
 ---
 
@@ -48,7 +48,6 @@
 ### 📊 GitHub Statistics:
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damithch&theme=transparent" alt="Profile Details" />
-  <img src="https://github-readme-stats.vercel.app/api?username=damithch&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damithch&theme=transparent" alt="Overall Stats" />
 </div>
 
