@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damith Chandrathilake</h1>
-<h3 align="center">Aspiring Machine Learning and Backend Engineer</h3>
+<h3 align="center">Aspiring Backend and Machine Learning Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=damithch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -14,7 +14,7 @@
 <ul>
   <li>🌱 Currently Learning: Python and Java</li>
   <li>🚀 Aspiring Roles: Machine Learning Engineer and Backend Developer</li>
-  <li>👯 Collaboration Interests: Backend projects</li>
+  <li>👯 Collaboration Interests: Java Backend projects</li>
   <li>📫 Contact: damchandrathilake@gmail.com</li>
 </ul>
 
