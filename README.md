@@ -68,7 +68,6 @@
 
 📊 GitHub Statistics:
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damithch&theme=transparent" alt="Profile Details" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damithch&theme=transparent" alt="Overall Stats" />
 </div>
 
@@ -76,6 +75,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=damithch&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="GitHub Streak" />
 </p>
 
-🚀 Let’s Build Something Amazing Together!  
-Feel free to reach out if you're interested in collaborating on exciting backend and machine learning projects. Let's connect and create something impactful!  
-Happy Coding! ✨
+🚀 Let’s Build Something Amazing Together!
