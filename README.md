@@ -75,4 +75,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=damithch&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="GitHub Streak" />
 </p>
 
+<!-- Advanced GitHub Stats -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damithch&theme=transparent" alt="Repositories per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damithch&theme=transparent" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/activities?username=damithch&theme=transparent" alt="GitHub Activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-committed-branches?username=damithch&theme=transparent" alt="Most Committed Branches" />
+</div>
+
 🚀 Let’s Build Something Amazing Together!
