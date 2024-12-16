@@ -13,7 +13,7 @@
 🧑‍💻 About Me:
 <ul>
   <li>🌱 Currently Learning: Python and Java</li>
-  <li>🚀 Aspiring Roles: Machine Learning Engineer and Backend Developer</li>
+  <li>🚀 Aspiring Roles: Machine Learning and Backend Developer</li>
   <li>👯 Collaboration Interests: Java Backend projects</li>
   <li>📫 Contact: damchandrathilake@gmail.com</li>
 </ul>
