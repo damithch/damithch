@@ -10,6 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GitHub GIF" style="width: 150px; height: auto;" />
 </p>
 
+
 ## 🧑‍💻 **About Me**
 
 Hey there! I'm **Damith**, an aspiring **Machine Learning Engineer** and **Backend Developer** with a deep passion for **Data Science**, **Analytics**, and **Artificial Intelligence**. 🌱Right now, I'm diving into **Linear Algebra**, **Python**, **Java**, **Calculus**, and **Probability** to sharpen my skills and take on new challenges. 🚀I'm always up for collaboration, especially on **Java Backend projects** and exploring the exciting world of **Machine Learning**. 🧠
@@ -17,7 +18,6 @@ As an **INTJ**, I’m loyal, committed, and thrive on **intellectual connection*
 **Fun fact**: I tend to overthink a lot, which keeps my mind buzzing with ideas! 🤔
 
 Let’s connect and **build something amazing together**! 🌟
-
 
 🌐 Connect with Me:
 <p align="left">
@@ -86,4 +86,10 @@ Let’s connect and **build something amazing together**! 🌟
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damithch&theme=transparent" alt="Overall Stats" />
 </div>
 
-🚀 Let’s Build Something Amazing Together!!!
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damithch&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="GitHub Streak" />
+</p>
+
+🚀 Let’s Build Something Amazing Together!
+
