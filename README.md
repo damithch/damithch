@@ -102,4 +102,3 @@ Let’s connect and **build something amazing together**! 🌟
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithch&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" width="700" height="250" />
 </div>
 
-🚀 Let’s Build Something Amazing Together!
