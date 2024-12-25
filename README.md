@@ -14,8 +14,8 @@
 ## 🧑‍💻 **About Me**
 
 Hey there! I'm **Damith**, an aspiring **Machine Learning Engineer** and **Backend Developer** with a deep passion for **Data Science**, **Analytics**, and **Artificial Intelligence**. 🌱Right now, I'm diving into **Linear Algebra**, **Python**, **Java**, **Calculus**, and **Probability** to sharpen my skills and take on new challenges. 🚀I'm always up for collaboration, especially on **Java Backend projects** and exploring the exciting world of **Machine Learning**. 🧠  
-As an **INTJ**, I’m loyal, committed, and thrive on **intellectual connection** and **personal growth**. 💭  
-**Fun fact**: I tend to overthink a lot, which keeps my mind buzzing with ideas! 🤔  
+As an **INTJ**, I’m committed, and thrive on **intellectual connection** and **personal growth**. 💭  
+**Fun fact**: I tend to overthink a lot, which keeps my mind buzzing with ideas!  
 
 Let’s connect and **build something amazing together**! 🌟
 
