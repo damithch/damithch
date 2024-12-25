@@ -81,15 +81,20 @@ Let’s connect and **build something amazing together**! 🌟
   </a>
 </p>
 
-📊 **GitHub Statistics**:
+## 📊 **GitHub Statistics**:
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damithch&theme=transparent" alt="Overall Stats" />
+  <!-- GitHub Stats -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damithch&theme=transparent" alt="Overall Stats" width="700" height="250" />
 </div>
 
+<div align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damithch&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="GitHub Streak" width="700" height="250" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damithch&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithch&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" width="700" height="250" />
+</div>
 
 🚀 Let’s Build Something Amazing Together!
-
