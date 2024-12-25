@@ -13,9 +13,9 @@
 
 ## 🧑‍💻 **About Me**
 
-Hey there! I'm **Damith**, an aspiring **Machine Learning Engineer** and **Backend Developer** with a deep passion for **Data Science**, **Analytics**, and **Artificial Intelligence**. 🌱Right now, I'm diving into **Linear Algebra**, **Python**, **Java**, **Calculus**, and **Probability** to sharpen my skills and take on new challenges. 🚀I'm always up for collaboration, especially on **Java Backend projects** and exploring the exciting world of **Machine Learning**. 🧠
-As an **INTJ**, I’m loyal, committed, and thrive on **intellectual connection** and **personal growth**. 💭
-**Fun fact**: I tend to overthink a lot, which keeps my mind buzzing with ideas! 🤔
+Hey there! I'm **Damith**, an aspiring **Machine Learning Engineer** and **Backend Developer** with a deep passion for **Data Science**, **Analytics**, and **Artificial Intelligence**. 🌱Right now, I'm diving into **Linear Algebra**, **Python**, **Java**, **Calculus**, and **Probability** to sharpen my skills and take on new challenges. 🚀I'm always up for collaboration, especially on **Java Backend projects** and exploring the exciting world of **Machine Learning**. 🧠  
+As an **INTJ**, I’m loyal, committed, and thrive on **intellectual connection** and **personal growth**. 💭  
+**Fun fact**: I tend to overthink a lot, which keeps my mind buzzing with ideas! 🤔  
 
 Let’s connect and **build something amazing together**! 🌟
 
@@ -56,26 +56,17 @@ Let’s connect and **build something amazing together**! 🌟
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin-right: 20px;" />
   </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="60" height="60" style="margin-right: 20px;" />
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" style="margin-right: 20px;" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="60" height="60" style="margin-right: 20px;" />
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60" style="margin-right: 20px;" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" style="margin-right: 20px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" style="margin-right: 20px;" />
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="60" height="60" style="margin-right: 20px;" />
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="60" height="60" style="margin-right: 20px;" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60" style="margin-right: 20px;" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60" style="margin-right: 20px;" />
@@ -101,4 +92,3 @@ Let’s connect and **build something amazing together**! 🌟
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithch&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" width="700" height="250" />
 </div>
-
