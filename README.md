@@ -19,6 +19,8 @@ As an **INTJ**, I’m loyal, committed, and thrive on **intellectual connection*
 
 Let’s connect and **build something amazing together**! 🌟
 
+---
+
 🌐 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/damith-chandrathilake-845949258/" target="_blank">
@@ -28,6 +30,8 @@ Let’s connect and **build something amazing together**! 🌟
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
 </p>
+
+---
 
 🛠 **Languages and Tools**:
 <p align="left">
@@ -81,9 +85,10 @@ Let’s connect and **build something amazing together**! 🌟
   </a>
 </p>
 
+
 ## 📊 **GitHub Statistics**:
 <div align="center">
-  <!-- GitHub Stats -->
+  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damithch&theme=transparent" alt="Overall Stats" width="700" height="250" />
 </div>
 
