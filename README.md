@@ -45,7 +45,6 @@ Let’s connect and **build something amazing together**! 🌟
 
 ## 🛠 **Languages and Tools**:
 <p align="center">
-  <!-- Updated tool alignment -->
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="60" height="60" style="margin: 10px;" />
   </a>
@@ -79,6 +78,12 @@ Let’s connect and **build something amazing together**! 🌟
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="60" height="60" style="margin: 10px;" />
   </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60" style="margin: 10px;" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" style="margin: 10px;" />
+  </a>
 </p>
 
 ---
@@ -92,12 +97,16 @@ Let’s connect and **build something amazing together**! 🌟
 
 ---
 
-⭐ **Fun Projects**:  
-- Developed a **Health Insurance Management System** using Java.  
+## ⭐ **Fun Projects**:  
+- Developed a **Health Insurance Management System** using PHP, HTML, JS.  
 - Built a **Student Information System** using advanced OOP concepts.  
 
-🎯 **Currently Learning**:  
+---
+
+## 🎯 **Currently Learning**:  
 - Deep concepts in **Machine Learning** and **Data Science**.  
 - Advanced **Java Backend Development**.  
 
-Feel free to reach out and collaborate! ✨  
+---
+
+Feel free to reach out and collaborate! ✨
