@@ -23,7 +23,7 @@ Right now, I'm diving into:
 
 🧠 **Fun fact**: I tend to overthink a lot, which keeps my mind buzzing with ideas!  
 
-📍 Based in **Sri Lanka**, with dreams of traveling the world 🌍 and Building a career in AI.  
+📍 Based in **Sri Lanka**, with dreams of traveling the world 🌍 and building a career in AI.  
 Let’s connect and **build something amazing together**! 🌟  
 
 ---
