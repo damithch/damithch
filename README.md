@@ -97,7 +97,7 @@ Let’s connect and **build something amazing together**! 🌟
 
 ---
 
-## ⭐ **Fun Projects**:  
+## ⭐ **Projects**:  
 - Developed a **Health Insurance Management System** using PHP, HTML, JS.  
 - Built a **Student Information System** using advanced OOP concepts.  
 
