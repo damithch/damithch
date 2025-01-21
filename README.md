@@ -94,7 +94,7 @@ Let’s connect and **build something amazing together**! 🌟
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damithch&theme=transparent" alt="Overall Stats" style="margin: 10px;" />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damithch&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="GitHub Streak" style="margin: 10px;" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=damithch&theme=transparent&hide_border=true&title_color=red&text_color=red" alt="GitHub Streak" style="margin: 10px;" /> -->
 
   <!-- Most Used Languages with cache refresh -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithch&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Most Used Languages" style="margin: 10px;" />
