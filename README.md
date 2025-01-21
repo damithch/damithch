@@ -36,9 +36,9 @@ Let’s connect and **build something amazing together**! 🌟
   <a href="https://www.kaggle.com/damithchandrathilake" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="50" />
   </a>
-  <a href="mailto:damchandrathilake@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="50" />
-  </a>
+ <a href="mailto:damchandrathilake@gmail.com?subject=Hello Damith&body=Hi Damith," target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="50" />
+</a>
 </p>
 
 ---
