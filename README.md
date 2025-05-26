@@ -17,15 +17,15 @@
 
 ## 🧑‍💻 **About Me**
 
-Hey there! I'm **Damith**, an aspiring **Machine Learning Engineer** and **Backend Developer** with a deep passion for **Data Science**, **Analytics**, and **Artificial Intelligence**. 🌱
+Hello, I'm **Damith**, an aspiring **Machine Learning Engineer** and **Backend Developer** with a deep passion for **Data Science**, **Analytics**, and **Artificial Intelligence**. 🌱
 I’m currently an undergraduate in Software Engineering at SLIIT.
-Right now, I'm diving into:  
-- **Linear Algebra**, **Python**, **Java**, **Calculus**, and **Probability** to sharpen my skills.  
+Currently, I am focusing on:
+- **Linear Algebra**, **Python**, **Java**, **Calculus**, and **Probability** to sharpen my skills, and I am fluent in **data structures and algorithms**.
 - Collaborating on **Java Backend projects** and exploring the exciting world of **Machine Learning**. 🚀  
 
 💡 As an **INTJ**, I’m committed to **intellectual connection**, **personal growth**, and solving challenging problems.  
 
-🧠 I tend to **overthink** a lot! 🤯 &  I imagine myself **driving a McLaren someday**! 🚗💨
+🧠 I enjoy delving deep into problems to find effective solutions.
 
 📍 Based in **Sri Lanka**, with dreams of traveling the world 🌍 and building a career in AI.  
 Let’s connect and **build something amazing together**! 🌟  
