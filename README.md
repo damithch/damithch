@@ -12,7 +12,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GitHub GIF" style="width: 150px; height: auto;" />
 </p>
 
----
+
 
 ## 🧑‍💻 **About Me**
 
@@ -21,9 +21,9 @@ Hey there! I'm **Damith**, a Software Engineering undergraduate at **SLIIT** wit
 I enjoy building systems that are **scalable**, **maintainable**, and **well-architected**, while continuously strengthening my foundations in mathematics and computer science.
 
 ### 🔭 What I’m currently doing
-- 🚀 **Next.js Intern (6 months)** – working with modern frontend and full-stack web technologies  
-- ⚙️ Learning **DevOps** concepts including CI/CD, containerization, and cloud fundamentals  
-- 📚 Deepening my understanding of **Machine Learning**, **Data Science**, and **AI**
+- **Next.js Intern (6 months)** – working with modern frontend and full-stack web technologies  
+- Learning **DevOps** concepts including CI/CD, containerization, and cloud fundamentals  
+- Deepening my understanding of **Machine Learning**, **Data Science**, and **AI**
 
 ### 🧠 Core Focus Areas
 - Backend Engineering (Java, Spring Boot, Node.js)
@@ -42,6 +42,5 @@ I value **clarity, structure, and long-term growth** and I enjoy solving problem
 </p>
 
 
----
 
 ✨ Always focused on learning, building, and improving as an engineer.
